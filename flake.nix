@@ -21,6 +21,7 @@
           hsenv
           pkgs.alejandra # nix expression formatter
           pkgs.cabal-install
+          pkgs.socat
           pkgs.zlib
         ];
       };
